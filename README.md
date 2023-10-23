@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/skiba-py" target="_blank">Ivan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DE4F7&background=FF121D00&center=true&vCenter=true&random=false&width=330&lines=Computer+science+student;Love+to+build+things" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DE4F7&background=FF121D00&center=true&vCenter=true&random=false&width=450&lines=Computer+science+student;Coding+the+future%2C+one+line+at+a+time" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skiba-py&label=Profile%20views&color=0fefff&style=flat" alt="skiba-py" /> </p>
 
