@@ -1,6 +1,7 @@
+###
 <h1 align="center">Hi there, I'm <a href="https://github.com/skiba-py" target="_blank">Ivan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Computer science student</h3>
 
 <!--
 **skiba-py/skiba-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
